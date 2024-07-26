@@ -1,0 +1,69 @@
+<svg
+            width="39"
+            height="30"
+            viewBox="0 0 39 30"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <rect
+              x="0.0198364"
+              y="0.181152"
+              width="38.7773"
+              height="29.4615"
+              rx="3.80149"
+              fill="#FEBC11"
+            />
+            <rect
+              x="15.1527"
+              y="3.98267"
+              width="8.5121"
+              height="20.9082"
+              rx="4.25605"
+              stroke="#665AF0"
+              stroke-width="0.950372"
+            />
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M23.6646 9.67245H38.9851H23.6646Z"
+              fill="#665AF0"
+            />
+            <path
+              d="M23.6646 9.67245H38.9851"
+              stroke="#665AF0"
+              stroke-width="0.950372"
+            />
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M23.6646 19.1761H38.9851H23.6646Z"
+              fill="#665AF0"
+            />
+            <path
+              d="M23.6646 19.1761H38.9851"
+              stroke="#665AF0"
+              stroke-width="0.950372"
+            />
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M0.0198364 9.67261H15.3404H0.0198364Z"
+              fill="#665AF0"
+            />
+            <path
+              d="M0.0198364 9.67261H15.3404"
+              stroke="#665AF0"
+              stroke-width="0.950372"
+            />
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M0.0198364 19.1761H15.3404H0.0198364Z"
+              fill="#665AF0"
+            />
+            <path
+              d="M0.0198364 19.1761H15.3404"
+              stroke="#665AF0"
+              stroke-width="0.950372"
+            />
+          </svg>
