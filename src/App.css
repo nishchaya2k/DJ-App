@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "NeueMontreal-Thin";
+  src: local("NeueMontreal-Thin"),
+    url("/PPNeueMontreal-Thin.otf") format("opentype"),
+    url("./PPNeueMontreal-Thin.otf") format("opentype");
+}
+@font-face {
+  font-family: "NeueMontreal";
+  src: local("NeueMontreal"), url("/PPNeueMontreal-Book.otf") format("opentype"),
+    url("./PPNeueMontreal-Book.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NeueMontreal-Med";
+  src: local("NeueMontreal-Med"),
+    url("/PPNeueMontreal-Medium.otf") format("opentype"),
+    url("./PPNeueMontreal-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NeueMontreal-Bold";
+  src: local("NeueMontreal-Bold"),
+    url("/PPNeueMontreal-Bold.otf") format("opentype"),
+    url("./PPNeueMontreal-Bold.otf") format("opentype");
+}
+/* @font-face {
+  font-family: "NeueMontreal";
+  src: local("NeueMontreal"), url("/PPNeueMontreal-Book.otf") format("opentype"),
+    url("./PPNeueMontreal-Book.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "NeueMontreal-Med";
+  src: local("NeueMontreal-Med"),
+    url("/PPNeueMontreal-Medium.otf") format("opentype"),
+    url("./PPNeueMontreal-Medium.otf") format("opentype");
+} */
